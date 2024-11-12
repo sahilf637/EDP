@@ -1,0 +1,8 @@
+path: /path/to/dataset
+train: train/images
+val: valid/images
+
+nc: 2
+names:
+0: normal
+1: red_eyes
